@@ -16,7 +16,7 @@ public int getMemory() {
 }
 public void calculateMemory()
 {
-	System.out.println("function is called from outside");
+	System.out.println("function is called from outside as well as from inside");
 }
 
 }
