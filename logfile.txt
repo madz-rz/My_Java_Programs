@@ -1,0 +1,3 @@
+logfile1
+logfie2
+logfile3
