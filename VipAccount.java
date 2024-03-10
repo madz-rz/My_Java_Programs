@@ -15,7 +15,7 @@ public class VipAccount {
 	public VipAccount(String name, double creditLimit)
 	{
 		this(name,creditLimit,"baddydhan@gmail.com");
-		
+		System.out.println("Test");
 	}
 	
 	public VipAccount(String name, double creditLimit, String emailAddress)
