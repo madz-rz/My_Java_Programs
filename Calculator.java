@@ -32,6 +32,7 @@ public class Calculator {
 		public float divide()
 		{
 		return (first/second);
+		System.out.println("Printed");
 		}
 		}
 
