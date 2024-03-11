@@ -13,6 +13,7 @@ public class ConstructorCheck {
 		Computer computer = new Computer(cpu,monitor);
 		computer.getMonitor().getResolution();
 		computer.getCpu().calculateMemory();
+		System.out.println("Constructor check completed");
 	}
 
 }
